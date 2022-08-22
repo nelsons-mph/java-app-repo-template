@@ -1,6 +1,8 @@
 # java-app-repo-template
 
-Repo naming conventions recommended by GitHub
+> Repo naming conventions recommended by GitHub
+
+
 Template repositories with an automation template that includes
   1. Tags
   2. Recommended Branches
