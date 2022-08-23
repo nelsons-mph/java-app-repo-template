@@ -51,3 +51,14 @@ JIRA Int. for Issues
 Azure DevOps for Issues
 Check on branch protection settings (before / after repo creation from template)
 Enforcing release tags
+
+API Repo
+	Cloud Resource Provisioning
+	Setup repo, branch settings
+	Setup pipeline
+	Build 
+	Setup cloud resources
+	Deploy App
+
+OR
+	Redis 
