@@ -44,3 +44,10 @@ Template repositories with an automation template that includes
   3. Access settings
   4. Review settings
   5. Team settings
+
+
+**TO-DO**
+JIRA Int. for Issues
+Azure DevOps for Issues
+Check on branch protection settings (before / after repo creation from template)
+Enforcing release tags
